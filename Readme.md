@@ -1,0 +1,1 @@
+Este é um game produzido por mim, com base em um game antigo. Utilizei aqui linguagem JS para produzir ambiente e movimentação. Este foi um game desenvolvido pelo P5.js.
