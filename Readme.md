@@ -25,6 +25,10 @@ https://projeto-cow-game.vercel.app/
 ```
 
 ### Futuras melhorias:
+* Centralizar o jogo;
+* Fazer um background;
+* Adicionar as instruções de movimentação;
+* Melhorar o sistema de dificuldade.
 
 
 
