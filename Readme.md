@@ -10,14 +10,21 @@ Este é um game produzido por mim, com base em um game antigo. Utilizei aqui lin
 > Web Editor P5.js
 
 ## 🎮 Como Jogar
-Tecla W: Raquetepara cima 
 
-Tecla S: Raquete para baixo
+Tecla W: Movimenta para cima
+
+Tecla S: Movimenta para baixo
+
+Tecla A: Movimentoa para a esquerda
+
+Tecla D: Movimenta para a direita 
 
 ## 📁 Acesso ao projeto 
 ```
-aqui o link
+https://projeto-cow-game.vercel.app/
 ```
+
+### Futuras melhorias:
 
 
 
